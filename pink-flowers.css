@@ -1144,7 +1144,7 @@ body {
 .corner-text2 {
   position: fixed;
   top: 9vmin;      /* Üstten biraz aşağı aldık */
-  left: 37vmin;     /* Sola biraz boşluk verdik */
+  left: 28vmin;     /* Sola biraz boşluk verdik */
   font-family: 'Great Vibes', cursive;
   font-size: 3.5vmin;
   color: rgba(255, 0, 0, 0.8);
